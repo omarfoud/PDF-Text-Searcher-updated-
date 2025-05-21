@@ -25,4 +25,5 @@ A cross-format desktop application for indexing and full-text search over PDF, t
 1. Clone this repo:
    ```bash
    git clone https://github.com/omarfoud/PDF-Text-Searcher-updated-.git
-   cd pdf-text-searcher
+2.Install dependencies:
+  pip install -r requirements.txt
