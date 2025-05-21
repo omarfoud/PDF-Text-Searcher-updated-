@@ -1,0 +1,12 @@
+
+---
+
+**requirements.txt**
+
+```text
+pandas>=1.1
+beautifulsoup4>=4.9
+pdfminer.six>=20201018
+whoosh>=2.7
+nltk>=3.5
+openpyxl>=3.0
